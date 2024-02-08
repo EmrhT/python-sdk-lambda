@@ -1,1 +1,1 @@
-# python-sdk-lambda-s3
+# python-sdk-lambda
